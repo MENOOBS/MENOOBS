@@ -40,7 +40,7 @@ I'm a software developer who enjoys solving real-world problems through technolo
 
 ## 🧩 My Latest Projects
 
-### 🔨 [Project 1](https://github.com/your-username/project-1)
+### 🔨 [Project 1](https://github.com/MENOOBS/ResolumeControl)
 > A brief description of the project, what technologies are used, and its main features.
 
 ![Project 1](https://via.placeholder.com/400x250?text=Project+1+Image)
