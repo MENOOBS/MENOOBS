@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build inno
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MENOOBS&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 🧩 Some of my open-source projects
 
