@@ -1,4 +1,4 @@
-# 👨‍💻 Hi there, I'm [Your Name] 👋
+# 👨‍💻 Hi there, I'm MENOOBS 👋
 
 Welcome to my GitHub profile! I'm a developer passionate about crafting high-quality code and solving complex problems through technology. I love working with both front-end and back-end technologies, and I'm always looking for ways to improve my skills and contribute to the community. 
 
@@ -33,24 +33,7 @@ Welcome to my GitHub profile! I'm a developer passionate about crafting high-qua
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=code)
-
-## 💡 Recent Projects
-
-### [Project 1](https://github.com/your-username/project-1)
-A full-stack web application built with **React** and **Node.js**. This project demonstrates the integration of RESTful APIs with a dynamic front-end.
-
-![Project 1](https://via.placeholder.com/400x250?text=Project+1+Image)
-
-### [Project 2](https://github.com/your-username/project-2)
-A **Flutter** mobile app for tracking personal tasks. Uses **Firebase** for real-time data sync.
-
-![Project 2](https://via.placeholder.com/400x250?text=Project+2+Image)
-
-### [Project 3](https://github.com/your-username/project-3)
-A **Python**-based machine learning model for image classification using **TensorFlow**.
-
-![Project 3](https://via.placeholder.com/400x250?text=Project+3+Image)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MENOOBS&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=code)
 
 ## 📬 Get In Touch
 
